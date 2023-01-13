@@ -9,6 +9,11 @@
 - React router dom
 - Recharts(For data visualization)
 - CSS
+
+## Project Screen Shot(s)
+![Booking Page](https://raw.githubusercontent.com/KMS74/react-car-dashboard/master/public/booking.jpg)
+![Dashboard Page](https://raw.githubusercontent.com/KMS74/react-car-dashboard/master/public/dashboard.jpg)
+
 ## Installation and Setup Instructions
 
 #### Example:
